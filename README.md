@@ -2,7 +2,7 @@
 
 I'm an Industrial Automation Engineer with 3 years of experience who has moved into the world of web development. I'm passionate about software technologies, open-source community and startups.
 
-My main programming languages/platforms are: Javascript (I love Typescript), Node.js, PHP, React, Vue.js.
+My main programming languages/platforms are: Javascript (I love Typescript), Node.js, Angular, Vue.js.
 
 ### Find me around the web 🌐
 
