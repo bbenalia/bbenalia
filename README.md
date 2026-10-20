@@ -12,5 +12,5 @@ I build web products end to end, from the interface to the cloud infrastructure 
 ### Find me around the web 🌐
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/brahim-benalia"><img src="https://www.magnific.com/es/vectores/logo-linkedin-blancog" width="18" height="18" alt="LinkedIn"/> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/brahim-benalia"><img src="https://camo.githubusercontent.com/568b87cdd0f498765c0ac17ca0c1ba9eadccdaddc8e485469c1b88f8b045365d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="40" title="Linkedin" data-canonical-src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" style="max-width: 100%;"> LinkedIn</a>
 </p>
