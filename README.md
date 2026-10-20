@@ -1,20 +1,20 @@
 ## Hi, I'm Brahim 👋
 
-I'm a **Full Stack Software Engineer** based in Valencia, Spain, with 4+ years of experience building web products, and a background in industrial automation engineering.
+**Full Stack Software Engineer** · TypeScript · Node.js · Angular · AWS · Valencia, Spain
 
-- 🚚 I spent almost four years at **Shargo**, a logistics platform, building features for shippers, carriers and operations teams, from the frontend to the AWS infrastructure behind it.
-- 💳 Before that, I worked at **Solve The X**, a fintech startup, with Vue.js, Node.js, GraphQL and PostgreSQL.
-- 🏭 I started my career as an **Automation Engineer**, working with PLCs and industrial robots. It taught me to build systems that work in real-world conditions, not just in theory.
-- 🔐 I helped my last company achieve **ISO/IEC 27001** certification by implementing security controls across the application and AWS.
-- 🌱 I care about clean, tested and maintainable code, and I enjoy learning new tools and sharing what I learn.
-- 📫 Open to new opportunities. Feel free to reach out on LinkedIn.
+I build web products end to end, from the interface to the cloud infrastructure behind it.
 
-**Main stack:** TypeScript · Node.js · Express · Angular · Vue.js · MongoDB · PostgreSQL · AWS (CDK, ECS, Lambda, S3, Cognito) · GitHub Actions
+- 🚚 4 years at **Shargo**, a logistics platform: features for shippers, carriers and operations teams, AWS infrastructure as code, and security work for the company's ISO/IEC 27001 certification.
+- 💳 Before that, **Solve The X** (fintech): Vue.js, Node.js, GraphQL and PostgreSQL.
+- 🏭 I started as an **industrial automation engineer**, which taught me to build systems that work in real-world conditions.
+- 📫 Open to new opportunities. Let's connect on LinkedIn.
 
 ### Find me around the web 🌐
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/brahim-benalia)
-- 💻 [DEV Community](https://dev.to/bbenalia)
+<p align="left">
+  <a href="https://www.linkedin.com/in/brahim-benalia"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="LinkedIn"/> LinkedIn</a><br/>
+  💻 <a href="https://dev.to/bbenalia">DEV Community</a>
+</p>
 
 <h3 align="left">Languages and Technologies:</h3>
 <p align="left">
